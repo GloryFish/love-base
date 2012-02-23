@@ -1,0 +1,5 @@
+# LÖVE Base
+
+A bare project for starting new LÖVE 2D games.
+
+Includes middleclass and middleclass-extras, an input manager, gamestate management, camera, screen logging, and various utilities.

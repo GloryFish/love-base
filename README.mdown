@@ -1,4 +1,4 @@
-# LÖVE Base
+# LÖVE Base 1.0
 
 A bare project for starting new LÖVE 2D games.
 
